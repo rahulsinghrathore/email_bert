@@ -1,0 +1,8 @@
+azureml-defaults>=1.0.45
+tensorflow==2.9.1
+numpy==1.23.0
+pandas==1.4.3
+keras==2.9.0
+sklearn==1.1.1
+tensorflow_text==2.9.0
+tensorflow_hub==0.12.0
